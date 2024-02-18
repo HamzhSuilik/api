@@ -1,4 +1,4 @@
 {
-  "link" : "http://localhost:8000/shein/",
-  "link2" : "https://shein.pxabox.com/"
+  "link-local" : "http://localhost:8000/shein/",
+  "link" : "https://shein.pxabox.com/"
 }
